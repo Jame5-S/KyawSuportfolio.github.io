@@ -185,9 +185,12 @@ a {
         margin:0;
         margin-bottom: 50px;
     }
+    .heading-text {
+        margin-bottom: 100px;
+    }
 
     .bust {
-        margin-top:50px;
+        margin-top:150px;
         height:250px;
         width: 250px;
     }
@@ -217,7 +220,6 @@ a {
 
     .digi-draw , .fav-food {
         height: 25%;
-        width: 25%;
     
     }
     .digi-draw{
